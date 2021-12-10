@@ -1,0 +1,69 @@
+.navbar-nav > li{
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    color: #4978DD  !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 30px !important;
+}
+
+.programator {   
+    width: 900px;
+    height: 450px;
+    margin-left: 10%;
+    padding-top: 20px;
+}
+
+
+main div article h2 {
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+.programator-popis {
+    max-width: 1000px;
+    max-height: 50px;
+    margin-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 100%;
+    font-size: 20px;
+}
+
+.operator-obrazek {
+    position: absolute;
+    top: 820px;
+    margin-left: 10%;
+}
+
+.operator-text {
+    position: absolute;
+    top: 1400px;
+    margin-left: 10%;
+    padding-top: 20px;
+}
+
+footer div p {
+    margin: 0;
+    color: white;
+    padding-left: 30px;
+}
+
+footer div {
+    position: absolute;
+    padding-top: 15px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;   
+}
+
+footer {
+    margin-top: auto;
+    height: 105px;
+    background-color: rgb(37, 37, 37);
+}

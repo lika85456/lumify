@@ -1,0 +1,46 @@
+    
+.navbar-nav > li{
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    color: #4978DD  !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 30px !important;
+}
+textarea {
+    width: 200%;
+    height: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+ 
+  footer div p {
+    margin: 0;
+    color: white;
+    padding-left: 30px;
+}
+
+footer div {
+    position: absolute;
+    padding-top: 15px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;   
+}
+
+footer {
+    margin-top: auto;
+    height: 105px;
+    background-color: rgb(37, 37, 37);
+}

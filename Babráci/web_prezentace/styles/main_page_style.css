@@ -1,0 +1,88 @@
+
+.navbar-nav > li{
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    color: #4978DD  !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 30px !important; 
+}
+
+.header-container {
+    position: relative;
+    text-align: left;
+    max-width: 500px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+main div {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+main div img {
+    width: 100%;
+    padding-top: 10px;
+}
+
+main div article h2 {
+    padding-top: 10px;
+}
+
+main div article p {
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+}
+
+#left-arrow {  
+    cursor: pointer;
+    position: absolute;
+    padding-top: 20%;
+    color: greenyellow;
+    font-size: 80px;
+    opacity: 0.8;
+}
+
+#right-arrow {
+    cursor: pointer;
+    position: absolute;
+    padding-left: 71%;
+    padding-top: 20%;
+    color: greenyellow;
+    font-size: 80px;
+    opacity: 0.8;
+}
+
+footer div p {
+    margin: 0;
+    color: white;
+    padding-left: 30px;
+}
+
+footer div {
+    position: absolute;
+    padding-top: 15px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+    height: 105px;
+    background-color: rgb(37, 37, 37);
+}
+
+
+
+
+

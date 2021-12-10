@@ -1,0 +1,535 @@
+*{
+ font-family: 'Source Sans Pro', sans-serif;
+} 
+body{
+	background-color: #EDF3F4;
+}
+
+
+#dva {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 33.3%;
+	float: left;
+	transition: ease 1s;
+}
+
+#dva:hover {
+	background-color: #b5cedf;
+}
+
+#dva h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#dva li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+
+
+}
+#dva li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+
+}
+
+#tři {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 33.3%;
+	float: left;
+	transition: ease 1s
+}
+
+#tři:hover {
+	background-color: #b5cedf;
+}
+
+#tři h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#tři li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+}
+
+
+#tři li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+}
+
+#čtyři {
+	background-color: #d2e9fa;
+	height: 7.5%;
+	width: 33.3%;
+	float: left;
+	transition: ease 1s
+}
+
+#čtyři:hover {
+	background-color: #b5cedf;
+}
+
+#čtyři h3{
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#čtyři li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+}
+
+
+#čtyři li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+}
+
+
+#ucebny {
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+#mistnost{
+	opacity: 0;
+	transition: opacity 4s;
+}
+
+ 
+#nadpis1{
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	
+	padding: 25px;
+}
+
+#h11{
+	margin-left: 130px;
+	margin-top: -90px;
+}
+
+#znak1{
+	width: 100px;
+	height: 100px;
+}
+
+#aktuality {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#druzina {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#akce {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#zápis {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#kontakty {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#odkazy a{
+	color: black;
+	text-decoration: none;
+	transition: ease 0.3s;
+}
+
+#odkazy a:hover {
+	color: gray;
+}
+
+#odkazy {
+	height: 75%;
+	width: 15.5%;
+	background-color: white;
+	float: left;
+	margin-top: 1%;
+}
+
+
+
+#jidelna{
+	height: 70%;
+	width:82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+}
+
+#skola {
+	height: 70%;
+	width: 82%;
+	background-color: white;
+	margin-top: 1%;
+	float: right;
+	color: black;
+	padding: 1.66%;
+
+}
+
+#odkazy2{
+	float: center;
+}
+
+#skola2{
+	height: 630px;
+	width: 1480px;
+}
+
+#odkazy3{
+	height: 700px;
+	width: 1480px;
+	background-color: white;
+	float: center;
+	margin-top: 15px;
+}
+#footer{
+	background-color: black;
+}
+
+#patička{
+	background-color: black;
+	height:65%;
+	width: 100%;
+}
+
+#pata {
+	background-color: black;
+	color: white;
+	height: 80%;
+	width: 33%;
+	float: left;
+	margin-top: 1%;
+	padding: 1%;
+}
+
+#pata2 {
+	
+	background-color: black;
+	color: white;
+	height: 80%;
+	width: 33%;
+	float: left;
+	margin-top: 1%;
+	padding: 1%;
+}
+
+#pata3 {
+	
+	background-color: black;
+	color: white;
+	height: 80%;
+	width: 33%;
+	float: left;
+	margin-top: 1%;
+	padding: 1%;
+}
+
+
+#pata3 a {
+	text-decoration: none;
+	color: white;
+	transition: ease 1s;
+}
+
+#pata3 a:hover {
+	color: gray;
+}
+
+#akce1 {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 25%;
+	float: left;
+	transition: ease 1s;
+}
+
+#akce1:hover {
+	background-color: #b5cedf;
+}
+
+#akce1 h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#akce1 li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+
+
+}
+#akce1 li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+}
+
+#jidelna1 {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 25%;
+	float: left;
+	transition: ease 1s;
+}
+
+#jidelna1:hover {
+	background-color: #b5cedf;
+}
+
+#jidelna1 h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#jidelna1 li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+
+
+}
+#jidelna1 li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left:10%;
+}
+
+#druzina1 {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 25%;
+	float: left;
+	transition: ease 1s;
+}
+
+#druzina1:hover {
+	background-color: #b5cedf;
+}
+
+#druzina1 h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#druzina1 li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+
+
+}
+#druzina1 li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+}
+
+#zapis1 {
+	background-color: #d2e9fa;
+	height: 7.4%;
+	width: 25%;
+	float: left;
+	transition: ease 1s;
+}
+
+#zapis1:hover {
+	background-color: #b5cedf;
+}
+
+#zapis1 h3 {
+	color: black;
+	padding: 0.7% 7%;
+	text-align: center;
+}
+
+#zapis1 li{
+	disply:  block;	
+	color:transparent;
+	padding: 1.3%;
+	text-decoration: none;
+
+
+}
+#zapis1 li a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 140%;
+	padding: 0.7%;
+	margin-left: 10%;
+}
+
+#obrazekjidelna {
+	height:34%;
+	width:38%;
+	margin-top: 2%;
+	float: right;
+	margin-right: 10%;
+}
+
+#fotka {
+	height:40%;
+	width:50%;
+	margin-left:20%;
+}
+
+#prvnaci {
+	height:40%;
+	width: 50%;
+	margin-left:20%;
+}
+
+#reditel {
+	height:30%;
+	width:38%;
+	margin-top: 2%;
+	float: right;
+	margin-right: 10%;
+}
+
+#starydum {
+	height:40%;
+	width: 50%;
+	margin-left:20%;
+}
+
+#skdruzina {
+	height:30%;
+	width: 40%;
+	margin-left:20%;
+}
+
+footer {
+  display: block;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Istok+Web);
+@keyframes slidy {
+0% { left: 0%; }
+20% { left: 0%; }
+25% { left: -100%; }
+45% { left: -100%; }
+50% { left: -200%; }
+70% { left: -200%; }
+75% { left: -300%; }
+95% { left: -300%; }
+100% { left: -400%; }
+}
+* {
+  box-sizing: border-box;
+}
+body, figure { 
+  margin: 0; 
+  font-family: Istok Web, sans-serif;
+  font-weight: 100;
+}
+div#captioned-gallery { 
+  width: 100%; overflow: hidden; 
+}
+figure.slider { 
+  position: relative; width: 500%;
+  font-size: 0; animation: 30s slidy infinite; 
+}
+figure.slider figure { 
+  width: 20%; height: auto;
+  display: inline-block;  position: inherit; 
+}
+figure.slider img { width: 100%; height: auto; }
+figure.slider figure figcaption { 
+  position: absolute; bottom: 0;
+  background: rgba(0,0,0,0.4);
+  color: #fff; width: 100%;
+  font-size: 2rem; padding: .6rem; 
+}
+
+#captioned-gallery {
+    margin:0 auto;
+    width: 50%;
+    max-width: 800px;
+    min-width: 450px;
+}
